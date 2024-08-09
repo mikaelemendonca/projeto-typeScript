@@ -1,6 +1,11 @@
 # projeto-typeScript
 
->>> .\node_modules\.bin\tsc .\js\bitebanck.ts
+Para gerar o arquivo js na mesma pasta do arquivo TypeScript
+```console
+.\node_modules\.bin\tsc .\js\bitebanck.ts
+```
 
 Para gerar os arquivos js automaticamente a partir da tsconfig.json
->>> .\node_modules\.bin\tsc -w
+```console
+.\node_modules\.bin\tsc -w
+```
