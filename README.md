@@ -11,6 +11,4 @@ Para gerar os arquivos js automaticamente a partir da tsconfig.json
 ```
 
 Para atualizar a página automaticamente
-```
 Extensão Live Server no VSCode
-```
