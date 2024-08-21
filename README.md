@@ -10,5 +10,4 @@ Para gerar os arquivos js automaticamente a partir da tsconfig.json
 .\node_modules\.bin\tsc -w
 ```
 
-Para atualizar a página automaticamente
-Extensão Live Server no VSCode
+Para atualizar a página automaticamente a extensão Live Server no VSCode
